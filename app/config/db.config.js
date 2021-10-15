@@ -1,7 +1,7 @@
 module.exports = {
-    HOST: "localhost",
+    HOST: "192.168.29.91",
     USER: "root",
-    PASSWORD: "",
+    PASSWORD: "jaringan123",
     DB: "database_news_rifa",
     dialect: "mysql",
     pool: {
